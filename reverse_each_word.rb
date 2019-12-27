@@ -7,4 +7,5 @@ def reverse_each_word(sentence)
   reversed_sentence.join(" ")
 end 
 
-def reverse_each_word
+def reverse_each_word(sentence)
+  
